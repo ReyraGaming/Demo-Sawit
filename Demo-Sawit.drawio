@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-15T03:46:42.079Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="2GPlCkYOTAWE3df_UGG_" version="22.1.18" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-01-15T03:47:24.793Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="K90mAg4qaXpcicedepEz" version="22.1.18" type="github" pages="2">
   <diagram name="Pekerja" id="Uiu4wbFv9RFSIKA2n1KZ">
     <mxGraphModel dx="810" dy="1583" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -144,8 +144,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1350" y="-245" />
-              <mxPoint x="1350" y="-200" />
-              <mxPoint x="860" y="-200" />
+              <mxPoint x="1350" y="-180" />
+              <mxPoint x="860" y="-180" />
             </Array>
             <mxPoint x="870" y="-200" as="targetPoint" />
           </mxGeometry>
