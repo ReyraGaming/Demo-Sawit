@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-15T03:51:22.261Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="43zXBIGu_bVImq3ZcJ0l" version="22.1.18" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-01-16T13:52:43.414Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="gVP2fzABKdy7zK0x_Gsl" version="22.1.18" type="github" pages="2">
   <diagram name="Pekerja" id="Uiu4wbFv9RFSIKA2n1KZ">
-    <mxGraphModel dx="810" dy="1583" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="953" dy="1668" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -409,32 +409,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6SFFoyV-yTu_emAH-91S-123" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1360" y="250" width="210" height="280" as="geometry" />
-        </mxCell>
-        <mxCell id="6SFFoyV-yTu_emAH-91S-124" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Data anda telah dikirim&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1374.06" y="340" width="179.37" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="6SFFoyV-yTu_emAH-91S-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;fillColor=#0050ef;strokeColor=#001DBC;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="6SFFoyV-yTu_emAH-91S-126" target="6SFFoyV-yTu_emAH-91S-50" edge="1">
+        <mxCell id="6SFFoyV-yTu_emAH-91S-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#0050ef;strokeColor=#001DBC;entryX=0.867;entryY=1.006;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="6SFFoyV-yTu_emAH-91S-25" target="6SFFoyV-yTu_emAH-91S-50" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1552.25" y="427.53999999999996" as="sourcePoint" />
-            <mxPoint x="970" y="110" as="targetPoint" />
+            <mxPoint x="950" y="130" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1261" y="440" />
-              <mxPoint x="1261" y="147" />
-              <mxPoint x="970" y="147" />
-              <mxPoint x="970" y="113" />
+              <mxPoint x="1440" y="230" />
+              <mxPoint x="926" y="230" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="6SFFoyV-yTu_emAH-91S-126" value="Kembali" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1426.25" y="420" width="77.5" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="6SFFoyV-yTu_emAH-91S-127" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Data Hasil Panen&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1407.5" y="280" width="115" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="6SFFoyV-yTu_emAH-91S-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#0050ef;strokeColor=#001DBC;" parent="1" source="6SFFoyV-yTu_emAH-91S-25" target="6SFFoyV-yTu_emAH-91S-123" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
